@@ -55,5 +55,3 @@
 # = INTERESTS / HOBBIES =
 # Highlight any links to tech
 # 
-#
-#
